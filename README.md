@@ -1,0 +1,2 @@
+# simple-node-express
+Hello I have made a simple Node-Express app integrated with React JS. Here I receive array of objects using get request from server side Nodejs, then set that data in React app and also add new data and send that data using post request to server side. Then Server side modified that new data coming from post request and includes into that existing array of objects. And Finally data gets updated.
